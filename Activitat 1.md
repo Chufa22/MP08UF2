@@ -59,3 +59,20 @@ També podem enregistrar videotrucades de Meet i tenim una VPN per a Android i i
 4. I per finalitzar, escollim els permisos que asignarem al membre. 
 > ![imatge](cap6.png)
 
+# Instal·lació d’adreces
+
+## Administrador/a
+1. El primer pas sira afegi una cuenta en google en el vostre sistema operatiu linux.
+> ![imatge]()
+3. El següent pas sira entra a on esta la cuenta creada anteriormente.
+> ![imatge]()
+5. A continuació sira entra en la carpeta de (La meva unitat).
+> ![imatge]()
+7. Ara tindrem que crear una carpeta.
+> ![imatge]()
+9. I per finalitza arastrarem la carpeta creada al conte creat.
+> ![imatge]()
+11. I ja u tindriem.
+> ![imatge]()
+
+## Usuari/a
