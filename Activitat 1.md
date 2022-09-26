@@ -41,11 +41,21 @@ També podem enregistrar videotrucades de Meet i tenim una VPN per a Android i i
 
 ## BACKUP
 1. El primer pas serà clicar a nou.
-![imatge](cap3.png)
+ > ![imatge](cap3.png)
 2. Seguidament escriurem el nom.
-![imatge](cap4.png)
+> ![imatge](cap4.png)
 3. A continuació triar els membres. 
-![imatge](cap5.png)
+> ![imatge](cap5.png)
 4. I per finalitzar, escollim els permisos que asignarem al membre. 
-![imatge](cap6.png)
+> ![imatge](cap6.png)
+
+## DOCUMENTS
+1. El primer pas serà clicar a nou.
+ > ![imatge](cap3.png)
+2. Seguidament escriurem el nom.
+> ![imatge](cap7.png)
+3. A continuació triar els membres. 
+> ![imatge](cap5.png)
+4. I per finalitzar, escollim els permisos que asignarem al membre. 
+> ![imatge](cap6.png)
 
