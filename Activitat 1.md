@@ -35,6 +35,16 @@ Ens ofereix en Google Workspace Premium videotrucades en grup Meet de fins a 24h
 També podem enregistrar videotrucades de Meet i tenim una VPN per a Android i iOS.
 
 # Pressupost mensual i anual
-¡[imatge](cap2.png)
+![imatge](cap2.png)
 
+# Creació de les unitats compartides
 
+## BACKUP
+1. El primer pas serà clicar a nou.
+![imatge]()
+2. Seguidament escriurem el nom.
+![imatge]()
+3. A continuació triar els membres. 
+![imatge]()
+4. I per finalitzar, escollim els permisos que asignarem al membre. 
+![imatge]()
