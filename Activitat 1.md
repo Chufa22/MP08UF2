@@ -76,3 +76,13 @@ També podem enregistrar videotrucades de Meet i tenim una VPN per a Android i i
 > ![imatge](cap13.png)
 
 ## Usuari/a
+> ![imatge](cap14.png)
+
+# Exemples d’ús de fer un backup per part de l’administrador/a.
+> ![imatge](cap15.png)
+
+# Exemples d’ús de consultar un document per part de l’usuari/a.
+> ![imatge](cap16.png)
+
+# Comproveu si un usuari/a pot eliminar sense voler algun document.
+> ![imatge](cap17.png)
